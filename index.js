@@ -8,7 +8,11 @@ const shapes = require("./lib/shapes");
   
   const shape3=new shapes.circleclass();
 
+  const shape4= new shapes.squareclass();
 
-shape3.createLogo();
 
+
+shape1.createLogo();
+//shape2.createLogo();
+//shape4.createLogo();
 
